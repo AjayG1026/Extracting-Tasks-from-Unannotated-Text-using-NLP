@@ -1,4 +1,4 @@
-# 🧠 Task Extractor from Unannotated Texts using NLP
+# Task Extractor from Unannotated Texts using NLP
 
 ## 📌 Overview
 This project automatically extracts **task-related sentences** from raw, unannotated text using **Natural Language Processing (NLP)** techniques.  
